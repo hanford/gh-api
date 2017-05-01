@@ -1,0 +1,17 @@
+{
+  "name": "gh-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "Jack Hanford <jackhanford@gmail.com> (http://jackhanford.com)",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "~7.3.0",
+    "micro-cors": "~0.0.4",
+    "microrouter": "~2.1.0",
+    "xhr-request": "~1.0.1"
+  }
+}
